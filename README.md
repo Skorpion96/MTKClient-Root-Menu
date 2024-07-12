@@ -20,4 +20,4 @@ There isn't much to say them are pretty much explicative: with first option you 
 
 I hope this Menu will be appreciated, i created it because i'm pissed of MTKClient GUI which since it's written in python it may piss with dependencies and then it could be a hassle to fix errors. No python = No hassle hope you will appreciate
 
-I updated the Menu for the new MTKClient Version, also added a script to lauch it from /usr/local/bin, before that push mtkclient to /opt
+I updated the Menu for the new MTKClient Version, also added a script to lauch it from /usr/local/bin, before that push mtkclient to /opt, I also updated the Windosws vwersion but i won't update the multiple version...
