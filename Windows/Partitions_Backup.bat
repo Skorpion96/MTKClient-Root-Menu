@@ -16,7 +16,7 @@ for %%P in (%partitions%) do (
         set "img_list=!img_list!,!modified_partition!"
     )
 )
-set "flash_command=python mtk r !partitions_list! !img_list!"
+set "flash_command=python mtk.py r !partitions_list! !img_list!"
 echo Executing command: !flash_command!
 !flash_command!
 pause
